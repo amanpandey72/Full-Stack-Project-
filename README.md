@@ -2,7 +2,7 @@
 
 A modern full-stack web application built using the MERN stack with authentication, project management, task handling, and dashboard functionality.
 
----
+
 
 # Features
 
